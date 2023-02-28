@@ -15,8 +15,6 @@ package payroll;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import javax.swing.text.html.parser.Entity;
-
 import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.IanaLinkRelations;
